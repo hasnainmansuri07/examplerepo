@@ -1,0 +1,1 @@
+const hasnain = document.querySelector(main);
